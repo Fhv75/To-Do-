@@ -1,2 +1,2 @@
-# To-Do-
+# To-Do!
 Simple To-Do List App
